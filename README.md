@@ -52,6 +52,9 @@ This project focuses on developing a real-time, low-cost, and non-intrusive syst
 
 The developed driver monitoring system aims to enhance road safety by addressing two critical causes of traffic accidents—drowsiness and alcohol consumption. By leveraging ML and IoT, this project provides a proactive solution to reduce accident rates and save lives.
 
+## Contribution
+Contributions are welcome! If you have any suggestions, bug fixes, or feature enhancements, feel free to submit a pull request.
+
 ---
 
 For more details, refer to the full project report by Mohammad Shahid Raza from Amity University, Ranchi.
