@@ -399,25 +399,9 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2026 Shahid
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
-
 ## 👨‍💻 Author
 
-**Shahid**
+**Mohammad Shahid Raza**
 
 - GitHub: [@shahid1330](https://github.com/shahid1330)
 - Repository: [Driver-Monitoring-System](https://github.com/shahid1330/Driver-Monitoring-System)
